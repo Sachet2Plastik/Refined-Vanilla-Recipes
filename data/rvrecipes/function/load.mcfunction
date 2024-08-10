@@ -1,0 +1,1 @@
+tellraw @a "Refined Vanilla Recipe Loaded"
